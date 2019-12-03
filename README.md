@@ -49,8 +49,10 @@ Binary Confusion Matrix
 
 # Exploratory Data Analysis
 ### Distribution of data points among output classes
-![Img1](https://github.com/RanjithGowdaMN/Quora-Question-Pairs-Similarity/blob/master/img/Is_Duplicate_Distribution.png)
+![Img1](./img/Is_Duplicate_Distribution.png)
 
+### Plot representing unique and repeated questions
+![Img2](./img/Uniq_dupli.png)
 
 
 
