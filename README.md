@@ -117,16 +117,22 @@ longest_substr_ratio = len(longest common substring) / (min(len(q1_tokens), len(
 ##  Analysis of extracted features
 
 ### Word Cloud for Duplicate Question pairs
+![Img3](./img/Dup_QP.png)
 
 ### Word Clouds generated from non duplicate pair question's text
+![Img3](./img/Non_Dupl_QP.png)
 
 ### Pair plot of features ['ctc_min', 'cwc_min', 'csc_min', 'token_sort_ratio'] 
+![Img3](./img/Pair_plots.png)
 
 ### Distribution of the token_sort_ratio
+![Img3](./img/token_sort_ratio.png)
 
 ### Distribution of the fuzz_ratio
+![Img3](./img/Fuzz_ratio.png)
 
 ### Visualization using T-SNE
+![Img3](./img/T_SNE.png)
 
 
 
