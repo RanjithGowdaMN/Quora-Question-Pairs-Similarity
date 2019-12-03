@@ -48,7 +48,8 @@ log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
 Binary Confusion Matrix
 
 # Exploratory Data Analysis
-### istribution of data points among output classes
+### Distribution of data points among output classes
+![Img1](https://github.com/RanjithGowdaMN/Quora-Question-Pairs-Similarity/blob/master/img/Is_Duplicate_Distribution.png)
 
 
 
