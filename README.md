@@ -48,16 +48,20 @@ log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
 Binary Confusion Matrix
 
 # Exploratory Data Analysis
-### Distribution of data points among output classes
+#### Distribution of data points among output classes
 ![Img1](./img/Is_Duplicate_Distribution.png)
 
-### Plot representing unique and repeated questions
+#### Plot representing unique and repeated questions
 ![Img2](./img/Uniq_dupli.png)
 
+#### Log-Histogram of question appearance counts
+![Img3](./img/Log_hist.png)
 
+#### words shared between output class
+![Img3](./img/word_share.png)
 
-
-
+#### common words between output class
+![Img3](./img/word_common.png)
 
 
 
